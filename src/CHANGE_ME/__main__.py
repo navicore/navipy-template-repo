@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-gen signal k json for testing the navactor graph features
+CHANGE_ME
 """
 import argparse
 
